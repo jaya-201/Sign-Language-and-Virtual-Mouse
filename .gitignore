@@ -1,0 +1,21 @@
+# Python Virtual Environments
+/venv/
+/.venv/
+/env/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.pyc
+
+# Project-Specific Generated Files
+/dataset/
+sign_model.h5
+categories.npy
+
+# IDE Configuration
+/.vscode/
+/.idea/
+
+# OS-generated Files
+.DS_Store
+Thumbs.db
