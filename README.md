@@ -25,7 +25,7 @@ Setup & Installation
 Follow these steps to set up the project on your local machine.
 
 1. Clone the Repository
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone https://github.com/jaya-201/Sign-Language-and-Virtual-Mouse
 cd your-repo-name
 
 2. Create a Virtual Environment
